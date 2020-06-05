@@ -1,5 +1,5 @@
 # Income-tax-slab-
-##Read data CSV files & JSON files  
+## Read data CSV files & JSON files  
 Read input to the CSV files.
 Readings value iterated to for loop.
 We getting key values into the variable's
